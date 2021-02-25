@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full:latest
+FROM gitpod/workspace-full:branch-aledbf-base-image
 
 USER gitpod
 
